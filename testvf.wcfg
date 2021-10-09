@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/USER/Desktop/4 IIA4_INSAT/VLSI/tp/PROJET Ascenceur/version finale/ProjetAscenseurVF/TesAscenseur_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="tesascenseur" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/tesascenseur/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/appel" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">appel[3:0]</obj_property>
+      <obj_property name="ObjectShortName">appel[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/be" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">be[3:0]</obj_property>
+      <obj_property name="ObjectShortName">be[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/c" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">c[3:0]</obj_property>
+      <obj_property name="ObjectShortName">c[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/det" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">det</obj_property>
+      <obj_property name="ObjectShortName">det</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/a" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">a</obj_property>
+      <obj_property name="ObjectShortName">a</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/stopalarme" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">stopalarme</obj_property>
+      <obj_property name="ObjectShortName">stopalarme</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/p" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">p</obj_property>
+      <obj_property name="ObjectShortName">p</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/mh" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">mh</obj_property>
+      <obj_property name="ObjectShortName">mh</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/mb" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">mb</obj_property>
+      <obj_property name="ObjectShortName">mb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/alarme" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">alarme</obj_property>
+      <obj_property name="ObjectShortName">alarme</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/clk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/uut/etati" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">etati</obj_property>
+      <obj_property name="ObjectShortName">etati</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/uut/counter" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">counter</obj_property>
+      <obj_property name="ObjectShortName">counter</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/uut/h" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">h</obj_property>
+      <obj_property name="ObjectShortName">h</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/uut/d" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">d</obj_property>
+      <obj_property name="ObjectShortName">d</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tesascenseur/uut/clockfrequencyhz" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clockfrequencyhz</obj_property>
+      <obj_property name="ObjectShortName">clockfrequencyhz</obj_property>
+   </wvobject>
+</wave_config>

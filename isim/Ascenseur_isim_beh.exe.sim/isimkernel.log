@@ -1,0 +1,29 @@
+Command line:
+   Ascenseur_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  21633
+
+Tue Jan 19 14:48:32 2021
+
+
+ Elaboration Time: 0.234375 sec
+
+ Current Memory Usage: 5805.76 Meg
+
+ Total Signals          : 16
+ Total Nets             : 25
+ Total Signal Drivers   : 8
+ Total Blocks           : 3
+ Total Primitive Blocks : 3
+ Total Processes        : 1
+ Total Traceable Variables  : 14
+ Total Scalar Nets and Variables : 509
+Total Line Count : 64
+
+ Total Simulation Time: 0.265625 sec
+
+ Current Memory Usage: 5805.76 Meg
+
+Tue Jan 19 14:48:47 2021
+

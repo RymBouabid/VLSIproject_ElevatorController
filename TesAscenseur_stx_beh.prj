@@ -1,0 +1,2 @@
+vhdl isim_temp "Ascenseur.vhd"
+vhdl isim_temp "TestAscenseur.vhd"
